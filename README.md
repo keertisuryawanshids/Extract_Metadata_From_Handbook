@@ -93,5 +93,5 @@ This project follows an **AI-driven metadata extraction pipeline**:
 ### 1️⃣ Clone the Repository  
 
 ```sh
-git clone https://github.com/your-username/Extract_Metadata_From_Long_PDF.git
+git clone https://github.com/keertisuryawanshids/Extract_Metadata_From_Handbook.git
 cd Extract_Metadata_From_Long_PDF
